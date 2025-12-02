@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "迷っちゃうわ",
+  "base_artist": "Philosophy no Dance",
+  "createdAt": "2025-12-02T20:35:48.539374Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "迷っちゃうわ",
+      "artist": "フィロソフィーのダンス",
+      "has_synced": false,
+      "path": "select/pl_01_迷っちゃうわ_フィロソフィーのダンス.txt"
+    }
+  ]
+}
